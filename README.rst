@@ -4,6 +4,11 @@ The Ren'Py Visual Novel Engine
 
 https://www.renpy.org
 
+What's new
+==========
+Integrated Mobile phone plugin texting by Nighten (yet another phone)
+https://nighten.itch.io/yet-another-phone-renpy
+
 
 Branches
 ========
